@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(34, 0, 255);
+    text-align: center;
+}
+
+h1 {
+    color: rgb(22, 1, 33);
+    font-size: 50px;
+    font-family: Borel;
+    
+}
+
+.caja {
+    padding: 10px;
+    font-family: Borel;
+    background-color: rgb(216, 170, 114);
+    border-radius: 10%;
+}
+
+.boton {
+    padding: 10px;
+    font-family: Borel;
+    background-color: aquamarine;
+    border-radius: 10%;
+}
